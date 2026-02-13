@@ -1,0 +1,8 @@
+{
+  "name": "Magic Color Book",
+  "description": "A premium AI-powered coloring book generator that creates personalized line-art pages for kids, featuring high-quality image generation and an interactive storytelling assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
